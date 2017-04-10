@@ -71,3 +71,8 @@ int main(void)
   postvisitbitree(h);
   return 0;
 }
+
+输入 ABC##DE#G##F###
+输出 ABCDEGF
+    CBEGDFA
+    CGEFDBA
